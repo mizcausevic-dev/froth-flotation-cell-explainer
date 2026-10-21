@@ -11,40 +11,40 @@
       "glyph": "column",
       "label": "Conditioned slurry air",
       "role": "path",
-      "x": 0.5,
-      "y": 0.16
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
       "glyph": "froth",
       "label": "Froth zone",
       "role": "path",
-      "x": 0.5,
-      "y": 0.277
+      "x": 0.38,
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "column",
       "label": "Surface chemistry",
       "role": "path",
-      "x": 0.5,
-      "y": 0.393
+      "x": 0.62,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "seed",
       "label": "Suitable particles to bubbles",
       "role": "path",
-      "x": 0.5,
-      "y": 0.51
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n5",
       "glyph": "froth",
       "label": "Mineral-bearing froth",
       "role": "path",
-      "x": 0.5,
-      "y": 0.627
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n6",
@@ -52,15 +52,15 @@
       "label": "Tailings",
       "role": "path",
       "x": 0.5,
-      "y": 0.743
+      "y": 0.7
     },
     {
       "id": "n7",
       "glyph": "warning",
       "label": "Imperfect recovery",
       "role": "path",
-      "x": 0.5,
-      "y": 0.86
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
